@@ -217,13 +217,17 @@ public ArrayList<Usuario> listarUsuarios() {
 📧 Email: pedrogabriel308090@gmail.com
 🔗 https://github.com/PedroSenac123
 
+
 👤 Maurício de Campos
 📧 Email: mauriciodecamposhihi@gmail.com
-🔗 [LinkedIn]www.linkedin.com/in/maurício-de-campos-148005323 🔗 [GitHub] https://github.com/Samurai3216
+🔗 [LinkedIn]www.linkedin.com/in/maurício-de-campos-148005323 🔗 
+[GitHub] https://github.com/Samurai3216
+
 
 👤 Arthur de Brito
 📧 Email: arthurdebritodasilvacorinho@gmail.com
 🔗 [GitHub] https://github.com/ArthurdeBrito
+
 
 🎯 Objetivo do Repositório
 
