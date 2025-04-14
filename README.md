@@ -1,5 +1,6 @@
 Projeto final, feito a partir dos nossos conhecimentos e aprendizados durante as aulas do professor Jeferson.
 
+
 📌 Sobre o Projeto
 
 Este repositório contém um projeto em Java, focando em conceitos essenciais da linguagem, como:
@@ -19,7 +20,9 @@ Git/GitHub para versionamento
 
 Clone o repositório:
 
-git clone https://github.com/seu-usuario/nome-do-repositorio.git 
+git clone https://github.com/Samurai3216/Trabalho-Final-Xiru
+.git
+
 Abra o projeto em sua IDE favorita.
 
 Compile e execute os arquivos .java conforme necessário.
@@ -28,7 +31,7 @@ javac NomeDoArquivo.java
 
 java NomeDoArquivo 
 
-
+---
 
 📂 Estrutura do Repositório
 
@@ -47,6 +50,8 @@ java NomeDoArquivo
 ├── 📄 README.md 
 
 └── 📄 .gitignore 
+---
+
 📖 Exemplos de Código
 
 public class UsuarioDAO { 
